@@ -1,0 +1,5 @@
+numpy>=1.12
+torch>=1.5.1
+sentence-transformers==0.3
+ngt==1.11.6
+flask>=1.1.2
